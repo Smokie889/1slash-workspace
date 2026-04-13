@@ -1,0 +1,4 @@
+執行流程:
+
+.venv\Scripts\activate
+python prototype_pygame_duel_v1.py
